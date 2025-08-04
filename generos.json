@@ -1,0 +1,82 @@
+[
+    {
+        "id_genero": 1,
+        "nombre": "Acción"
+    },
+    {
+        "id_genero": 2,
+        "nombre": "Aventura"
+    },
+    {
+        "id_genero": 3,
+        "nombre": "Comedia"
+    },
+    {
+        "id_genero": 4,
+        "nombre": "Drama"
+    },
+    {
+        "id_genero": 5,
+        "nombre": "Fantasía"
+    },
+    {
+        "id_genero": 6,
+        "nombre": "Horror"
+    },
+    {
+        "id_genero": 7,
+        "nombre": "Romance"
+    },
+    {
+        "id_genero": 8,
+        "nombre": "Ciencia Ficción"
+    },
+    {
+        "id_genero": 9,
+        "nombre": "Documental"
+    },
+    {
+        "id_genero": 10,
+        "nombre": "Animación"
+    },
+    {
+        "id_genero": 11,
+        "nombre": "Thriller"
+    },
+    {
+        "id_genero": 12,
+        "nombre": "Misterio"
+    },
+    {
+        "id_genero": 13,
+        "nombre": "Musical"
+    },
+    {
+        "id_genero": 14,
+        "nombre": "Western"
+    },
+    {
+        "id_genero": 15,
+        "nombre": "Biografía"
+    },
+    {
+        "id_genero": 16,
+        "nombre": "Deportes"
+    },
+    {
+        "id_genero": 17,
+        "nombre": "Historia"
+    },
+    {
+        "id_genero": 18,
+        "nombre": "Guerra"
+    },
+    {
+        "id_genero": 19,
+        "nombre": "Familia"
+    },
+    {
+        "id_genero": 20,
+        "nombre": "Crimen"
+    }
+]

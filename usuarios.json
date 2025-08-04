@@ -1,0 +1,43 @@
+[
+    {
+    "id_usuario": 1,
+    "nombre": "Carlos"
+}
+,
+{
+    "id_usuario": 2,
+    "nombre": "Mario"
+},
+{
+    "id_usuario": 3,
+    "nombre": "Cristiano"
+},
+{
+    "id_usuario": 4,
+    "nombre": "Ken"
+},
+{
+    "id_usuario": 5,
+    "nombre": "Anaya"
+},
+{
+    "id_usuario": 6,
+    "nombre": "Jose"
+},
+{
+    "id_usuario": 7,
+    "nombre": "Takakura"
+},
+{
+    "id_usuario": 8,
+    "nombre": "Sergio"
+},
+{
+    "id_usuario": 9,
+    "nombre": "Juan"
+},
+{
+    "id_usuario": 10,
+    "nombre": "Goku"
+}
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id_formato": 1,
+        "nombre": "Serie"
+    },
+    {
+        "id_formato": 2,
+        "nombre": "Película"
+    },
+    {
+        "id_formato": 3,
+        "nombre": "Documental"
+    },
+    {
+        "id_formato": 4,
+        "nombre": "Anime"
+    },
+    {
+        "id_formato": 5,
+        "nombre": "Reality Show"
+    },
+    {
+        "id_formato": 6,
+        "nombre": "Miniserie"
+    },
+    {
+        "id_formato": 7,
+        "nombre": "Telenovela"
+    },
+    {
+        "id_formato": 8,
+        "nombre": "Cómic"
+    },
+    {
+        "id_formato": 9,
+        "nombre": "Manga"
+    },
+    {
+        "id_formato": 10,
+        "nombre": "Libro"
+    }
+]

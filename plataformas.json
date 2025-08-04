@@ -1,0 +1,55 @@
+[
+    {
+        "id_plataforma": 1,
+        "nombre": "Netflix"
+    },
+    {
+        "id_plataforma": 2,
+        "nombre": "Amazon Prime Video"
+    },
+    {
+        "id_plataforma": 3,
+        "nombre": "Disney+"
+    },
+    {
+        "id_plataforma": 4,
+        "nombre": "Crunchyroll"
+    },
+    {
+        "id_plataforma": 5,
+        "nombre": "HBO Max"
+    },
+    {
+        "id_plataforma": 6,
+        "nombre": "Apple TV+"
+    },
+    {
+        "id_plataforma": 7,
+        "nombre": "YouTube"
+    },
+    {
+        "id_plataforma": 8,
+        "nombre": "Paramount+"
+    },
+    {
+        "id_plataforma": 9,
+        "nombre": "Animeflv"
+    },
+    {
+        "id_plataforma": 10,
+        "nombre": "Discovery+"
+    },
+    { "id_plataforma": 11,
+        "nombre": "Kindle Unlimited"
+    },
+    {
+        "id_plataforma": 12,
+        "nombre": "Kobo"
+    },
+    {
+        "id_plataforma": 13,
+        "nombre": "Wattpad"
+    },
+    { "id_plataforma": 14,
+        "nombre": "Tu Manga Online"}
+]
